@@ -1,5 +1,5 @@
 # Get Date and Time by IP
-Simple script using http://worldtimeapi.org/ API to get the date and time 
+Simple script using http://worldtimeapi.org/ API to get the date and time (currently only working for windows)
 
 # How do I use it?
 
