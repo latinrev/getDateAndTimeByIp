@@ -1,7 +1,6 @@
 import requests
 import json
 import os
-
 response =  requests.get("http://worldtimeapi.org/api/ip")
 datetime = response.json()['datetime']
 date = datetime.split("T")
